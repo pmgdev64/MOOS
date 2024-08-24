@@ -15,7 +15,7 @@
 
 # MOOS
 
-MOOS (**M**y **O**wn **O**perating **S**ystem Project) is a C# x64 operating system compiler with the .NET 7 Native AOT technology.
+MOOS (**M**y **O**wn **O**perating **S**ystem Project) is a C# x64 operating system compiler with the .NET 7 Native AOT technology. (this repository has forked by pmgdev64).
 
 ## Building
 For information on compiling MOOS, please read the [build wiki page]([https://github.com/nifanfa/MOOS/wiki/How-do-you-build-or-compile-MOOS%3](https://github.com/nifanfa/MOOS/wiki)F).
